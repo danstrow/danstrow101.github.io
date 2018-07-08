@@ -1,0 +1,53 @@
+html {
+    height: 100%;
+  }
+ body {
+     width: 800px;
+     margin: 0 auto;
+     padding-top: 5px;
+     height: 100%;
+  }
+ header {
+    
+        background:url(img/skylinesea.png) no-repeat;
+        background-position: center bottom; 
+        
+    
+      background-color: #52BE80;
+      color:white;
+      text-align: center;
+      padding: 5px;
+      font-size: 20px;
+      display: block;
+      width: 790px;
+  }
+ nav {
+    background:url(img/spn.jpg) no-repeat;
+    background-position: right bottom;
+      line-height:30px;
+      background-color:#ffffff;
+      min-height:100%;
+      width:200px;
+      display: inline-block;
+      vertical-align: top;
+      padding: 5px;
+      font-size: 18px;
+  }
+ nav ul {
+      list-style-type: none;
+  }
+ a {
+     color: black;
+  }
+ section {
+      width: 575px;
+      display: inline-block;
+  }
+ footer {
+      width: 790px;
+      background-color:black;
+      color:white;
+      text-align: center;
+      padding: 5px;
+      display: block;
+  }
